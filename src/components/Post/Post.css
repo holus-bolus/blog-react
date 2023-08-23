@@ -1,0 +1,13 @@
+.post-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.post-container h2 {
+    margin-bottom: 10px;
+}
+
+.post-container a {
+    display: block;
+    margin-top: 10px;
+}

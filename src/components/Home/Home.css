@@ -1,0 +1,33 @@
+/* Home.css */
+
+.Home {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+}
+
+/* Post.css */
+
+.Post {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+}
+
+/* PostList.css */
+
+.PostList {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.PostItem {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f5f5f5;
+}

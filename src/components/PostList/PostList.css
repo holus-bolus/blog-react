@@ -1,0 +1,29 @@
+.post-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.post-item {
+    max-width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.post-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.post-item h2 {
+    margin-top: 10px;
+}
+
+.post-item p {
+    margin-top: 10px;
+}
